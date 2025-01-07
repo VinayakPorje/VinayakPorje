@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently Working on ReactJs, NodeJs, and Expressjs.<br>looking to collaborate on Reactjs, Nodejs, And React Native<br>Currently learning React Native and  AI Tools.<br>Ask me about Frontend And Backend Development.
+Currently Working on ReactJs, NodeJs, and Expressjs.<br>Looking to collaborate on Reactjs, Nodejs, And React Native<br>Currently learning React Native and  AI Tools.<br>Ask me about Frontend And Backend Development.
 
 
 ## 🌐 Socials:
