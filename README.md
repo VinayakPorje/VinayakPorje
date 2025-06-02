@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m Vinayak Porje
-💻 Full-stack developer | Completed MCA with 8.2 CGPA from Pimpri Chinchwad University
-🚀 Passionate about building scalable web apps, intelligent backend systems, and AI-powered solutions
-🧠 Keen on Functional Programming, System Design, Infrastructure as Code, and Automation
-📚 Currently exploring DevOps tools, AI/ML, and Advanced Web Development
-📬 Reach me at: vinayakporje642@gmail.com
+<h2>👋 Hi, I’m <strong>Vinayak Porje</strong></h2>
+<p>💻 Full-stack developer | Completed MCA with 8.2 CGPA from Pimpri Chinchwad University</p>
+<p>🚀 Passionate about building scalable web apps, intelligent backend systems, and AI-powered solutions</p>
+<p>🧠 Keen on Functional Programming, System Design, Infrastructure as Code, and Automation</p>
+<p>📚 Currently exploring DevOps tools, AI/ML, and Advanced Web Development</p>
+<p>📬 Reach me at: <a href="mailto:vinayakporje642@gmail.com">vinayakporje642@gmail.com</a></p>
 
 
 ## 🌐 Socials:
