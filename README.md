@@ -1,5 +1,10 @@
 # 💫 About Me:
-Currently Working on ReactJs, NodeJs, and Expressjs.<br>Looking to collaborate on Reactjs, Nodejs, And React Native<br>Currently learning React Native and  AI Tools.<br>Ask me about Frontend And Backend Development.
+👋 Hi, I’m Vinayak Porje
+💻 Full-stack developer | Completed MCA with 8.2 CGPA from Pimpri Chinchwad University
+🚀 Passionate about building scalable web apps, intelligent backend systems, and AI-powered solutions
+🧠 Keen on Functional Programming, System Design, Infrastructure as Code, and Automation
+📚 Currently exploring DevOps tools, AI/ML, and Advanced Web Development
+📬 Reach me at: vinayakporje642@gmail.com
 
 
 ## 🌐 Socials:
