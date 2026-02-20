@@ -63,9 +63,3 @@ skilled in **Linux systems and automation using Python and Bash scripting**, and
 ## 🖥 System & Networking
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
 ![Computer networks](https://img.shields.io/badge/-Computer_Network-C51A4A?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakporje&show_icons=true&theme=radical&hide_title=true)
