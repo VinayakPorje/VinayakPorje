@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Vinayak Porje
 
 👋 I’m a **Software Engineer with a strong foundation in DevOps, Cloud Computing, and System Administration**,  
-skilled in **Linux systems and automation using Python and Bash scripting**, and building **scalable infrastructure and CI/CD pipelines**.  
+  
 
 🚀 Passionate about designing **cloud-native solutions, Infrastructure as Code, end-to-end automation, and system monitoring**.  
 
